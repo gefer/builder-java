@@ -1,0 +1,13 @@
+br/com/builder/entities/Brand.java
+ br.com.builder.entities.Brand
+br/com/builder/entities/Fuel.java
+ br.com.builder.entities.Fuel
+br/com/builder/entities/Color.java
+ br.com.builder.entities.Color
+br/com/builder/runner/Main.java
+ br.com.builder.runner.Main
+br/com/builder/entities/Model.java
+ br.com.builder.entities.Model
+br/com/builder/entities/Car.java
+ br.com.builder.entities.Car
+ br.com.builder.entities.Car$Builder
